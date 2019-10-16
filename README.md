@@ -1,2 +1,2 @@
 # Simple_Website
-Git Learninh Repository
+Git Learning Repository
